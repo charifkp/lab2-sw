@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "lab2-sw"
+version = "0.1.0"
+description = "CLI to-do list application"
+authors = ["You <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.0"
+ruff = "^0.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
