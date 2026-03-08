@@ -1,0 +1,60 @@
+[33mcommit 2a211934e53650e9060e347b99886d39bc2eaff0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: f2641ba ab16f52
+Author: charifkp <muhahmadcharif74@gmail.com>
+Date:   Sat Mar 7 04:48:00 2026 +0000
+
+    Merge branch 'main' of https://github.com/charifkp/lab2-sw
+
+[33mcommit f2641ba8f23d19d83998a9e21a1580b1af63831c[m
+Author: charifkp <muhahmadcharif74@gmail.com>
+Date:   Sat Mar 7 04:43:38 2026 +0000
+
+    Add requirements.txt
+
+[33mcommit 1451e7472a4e8231ca4d731542eadc450ec45c78[m
+Author: charifkp <muhahmadcharif74@gmail.com>
+Date:   Sat Mar 7 04:35:50 2026 +0000
+
+    new file
+
+[33mcommit 29354163e8e278d3a5c7568d1260d483da0c2ab5[m
+Author: charifkp <muhahmadcharif74@gmail.com>
+Date:   Fri Mar 6 19:38:02 2026 +0000
+
+    add2
+
+[33mcommit ab16f5230fa45c9bc5bec70868ddaaa0394e7360[m
+Author: charifkp <muhahmadcharif74@gmail.com>
+Date:   Sat Mar 7 02:23:10 2026 +0700
+
+    Add GitHub Actions workflow for unit tests
+
+[33mcommit 9cdb39e828235841a9db0d757015a545d30e9ca5[m
+Author: charifkp <muhahmadcharif74@gmail.com>
+Date:   Sat Mar 7 02:06:26 2026 +0700
+
+    Add GitHub Actions workflow for unit tests
+
+[33mcommit e83406fd8c17a44a8950eaee8370016c7501f6bc[m
+Author: charifkp <muhahmadcharif74@gmail.com>
+Date:   Mon Mar 2 19:07:56 2026 +0000
+
+    add1
+
+[33mcommit bcdc94d9fb68d62d34e25e20420ce8916b0de0e2[m
+Author: charifkp <muhahmadcharif74@gmail.com>
+Date:   Mon Mar 2 18:13:52 2026 +0000
+
+    add
+
+[33mcommit 46c2b7500a978515747ddd611a87c0fb48a58921[m
+Author: charifkp <muhahmadcharif74@gmail.com>
+Date:   Mon Mar 2 18:03:10 2026 +0000
+
+    task-1
+
+[33mcommit f211c3a4a5660c0531f4f6cc54953f3c29ece92c[m
+Author: charifkp <muhahmadcharif74@gmail.com>
+Date:   Tue Mar 3 00:55:33 2026 +0700
+
+    Initial commit
