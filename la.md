@@ -1,5 +1,4 @@
----
-
+ 
 ## 📋 Log Format Guide
 
 Each entry follows this structure:
@@ -13,4 +12,4 @@ Each entry follows this structure:
 | **What Was Accepted** | There are require some command from connect with postgreSQL untill require password from codespace and that is not nessary to us so change to use SQL normal data base instead |
 | **What Was Rejected** | connecting from data base used postgreSQL |
 | **Verification Method** |Customer | 
----
+ 
